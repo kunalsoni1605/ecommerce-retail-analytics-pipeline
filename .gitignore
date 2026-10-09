@@ -6,4 +6,4 @@ data/raw/*
 data/processed/*
 *.pbix
 .vscode/
-.idea/
+.idea/	
